@@ -1,0 +1,26 @@
+/* TÉCNICO */
+
+#section-tecnico {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 102.2vw;
+  height: 100vh;
+  background-color:rgb(41, 11, 41);
+}
+.trabalhos-tecnico {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-evenly;
+  width: 102.2vw;
+  height: 100vh;
+  background: linear-gradient(rgb(41, 11, 41), rgb(19, 2, 19));
+}
+.trabalho {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  background-color: floralwhite;
+}

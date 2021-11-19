@@ -1,0 +1,65 @@
+/* NATUREZA */
+
+#section-natureza {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  width: 102.2vw;
+  height: 100vh;
+  background-color:rgb(77,190,43);
+}
+.trabalhos-natureza {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: space-evenly;
+  width: 102.2vw;
+  height: 100vh;
+  background: linear-gradient(rgb(77, 190, 43), rgb(13, 119, 9));
+}
+.trabalho {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  background-color: floralwhite;
+}
+.vertical {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+.trabalho-vacina {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  margin-top: 10px;
+  background-color: floralwhite;
+}
+.trabalhos-natureza2 {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: space-evenly;
+  width: 102.2vw;
+  height: 70vh;
+  background: linear-gradient(rgb(13, 119, 9), rgb(7, 71, 4));
+}
+embed#ilha {
+  width: 520px;
+  height: 500px;
+}
+img#funcoes {
+  width: 400px;
+  height: 300px;
+}
+embed#fisica {
+  width: 520px;
+  height: 300px;
+}
+embed#eletroima {
+  width: 400px;
+  height: 300px;
+}

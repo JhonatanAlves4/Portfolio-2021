@@ -1,0 +1,23 @@
+/* MATEMATICA */
+
+#section-matematica {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 102.2vw;
+  height: 100vh;
+  background-color:rgb(177, 4, 4);
+}
+.trabalhos-matematica {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-evenly;
+  width: 102.2vw;
+  height: 100vh;
+  background: linear-gradient(rgb(177, 4, 4), rgb(104, 5, 5));
+}
+img#matematica {
+  width: 330px;
+  height: 550px;
+}

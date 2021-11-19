@@ -1,0 +1,35 @@
+/* LINGUAGENS */
+
+#section-linguagens {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    width: 102.2vw;
+    height: 100vh;
+    background-color:rgb(20, 102, 255);
+}
+
+.trabalhos-linguagens {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-evenly;
+    width: 102.2vw;
+    height: 100vh;
+    background: linear-gradient(rgb(20, 102, 255), rgb(23, 36, 223));
+}
+.trabalho {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    background-color: floralwhite;
+}
+img {
+    width: 400px;
+    height: 300px;
+}
+img#pedra {
+    width: 500px;
+}

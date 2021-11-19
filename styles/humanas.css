@@ -1,0 +1,23 @@
+/* HUMANAS */
+
+#section-humanas {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 102.2vw;
+  height: 100vh;
+  background-color:rgb(231, 111, 12);
+}
+.trabalhos-humanas {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-evenly;
+  width: 102.2vw;
+  height: 100vh;
+  background: linear-gradient(rgb(231, 111, 12), rgb(165, 80, 10));
+}
+embed.humanas {
+  width: 450px;
+  height: 450px;
+}
